@@ -1,3 +1,5 @@
+"use client";
+
 import { messaging } from "@/lib/firebase";
 import { getToken } from "firebase/messaging";
 import { useState } from "react";
